@@ -1,0 +1,2 @@
+﻿model,hits,shots,hit_percent,mean_error_px,seed
+modeller/best-av-8000.json,913,1000,91.3,28.310196985088417,7319
