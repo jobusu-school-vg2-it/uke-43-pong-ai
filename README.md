@@ -1,5 +1,4 @@
-# Modell trener for 43 Pong AI prosjektet.
+## Om prosjektet
+Prosjeket i uke 43 handlet om å trene AI-modeller med tabellbasert Q-learning for å spille Pong. Dette repoet er mitt forsøk på å finne den beste mulige kombinasjonen av parameterne alpha, gamma og epsilon, som endrer hvordan modellen vil bli trent. 
 
-Denne python koden prøver å finne den beste kombinasjonen av alpha, gamma og epsilon for en model laget med tabellbasert Q-learning. 
-
-**main.py** trener rundt 7400 modeller og tar rundt 1 time, avhengig av hvor sterk maskinen din er. Alle resultatene blir lagret som csv filer under **dokumenter/** mappen.
+[main.py](main.py) trener rundt 7400 modeller og tar rundt 1 time, avhengig av hvor sterk maskinen din er. Alle resultatene blir lagret som csv filer under **dokumenter/** mappen.
